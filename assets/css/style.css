@@ -142,6 +142,8 @@ h3, h2 {
   width: 250px;
   margin: 20px 15px 25px;
   overflow: auto;
+  border: solid 2px;
+  border-color: #cccccc8e;
   margin: 15px;
   margin-left: 30px;
 }
