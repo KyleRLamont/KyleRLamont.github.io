@@ -483,6 +483,12 @@ ul.no-list
 	list-style-type:none;		
 }
 
+.portfolio-item {
+	border-bottom: #8888887c;
+	border-bottom-width: 3px;
+	border-bottom-style: dotted;
+}
+
 /******************************************************************************/	
 /*	Scrollbars															      */
 /******************************************************************************/
