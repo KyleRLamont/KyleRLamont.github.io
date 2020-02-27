@@ -730,7 +730,7 @@ input.button
 			ul.social-list-2 li.social-linkedin		{ background-image:url('../image/social-icon/about_icon_linkedin.png');		}		
 			ul.social-list-2 li.social-wordpress	{ background-image:url('../image/social-icon/about_icon_wordpress.png');	}		
 			ul.social-list-2 li.social-soundcloud	{ background-image:url('../image/social-icon/about_icon_soundcloud.png');	}		
-
+			ul.social-list-2 li.social-github		{ background-image:url('../image/social-icon/GitHub-Mark-32px.png');		}
 				ul.social-list-2 li a,
 				ul.social-list-2 li span
 				{
