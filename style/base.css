@@ -707,7 +707,7 @@ input.button
 			ul.social-list-1 li a.social-linkedin	{ background-image:url('../image/social-icon/social_linkedin.png');		}
 			ul.social-list-1 li a.social-wordpress	{ background-image:url('../image/social-icon/social_wordpress.png');	}
 			ul.social-list-1 li a.social-soundcloud	{ background-image:url('../image/social-icon/social_soundcloud.png');	}
-			ul.social-list-1 li a.social-github		{ background-image:url('../image/social-icon/GitHub-Mark-Light-32px.png', height: 15px, width: 15px);}
+			ul.social-list-1 li a.social-github		{ background-image:url('../image/social-icon/GitHub-Mark-Light-32px.png' height: 10px width: 10px);}
 
 	/**************************************************************************/
 	/* Social list / Social list 2									          */
@@ -737,7 +737,7 @@ input.button
 			ul.social-list-2 li.social-linkedin		{ background-image:url('../image/social-icon/about_icon_linkedin.png');		}		
 			ul.social-list-2 li.social-wordpress	{ background-image:url('../image/social-icon/about_icon_wordpress.png');	}		
 			ul.social-list-2 li.social-soundcloud	{ background-image:url('../image/social-icon/about_icon_soundcloud.png');	}		
-			ul.social-list-2 li.social-github		{ background-image:url('../image/social-icon/GitHub-Mark-Light-32px.png', height: 15px, width: 15px);		}
+			ul.social-list-2 li.social-github		{ background-image:url('../image/social-icon/GitHub-Mark-Light-32px.png' height: 10px width: 10px);		}
 				ul.social-list-2 li a,
 				ul.social-list-2 li span
 				{
